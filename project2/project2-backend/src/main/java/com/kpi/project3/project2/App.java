@@ -1,4 +1,4 @@
-package com.kpi.project3.project3;
+package com.kpi.project3.project2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

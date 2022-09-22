@@ -29,13 +29,13 @@
   <groupId>com.kpi.project3</groupId>
         
   
-  <artifactId>project3</artifactId>
+  <artifactId>project2</artifactId>
         
   
   <version>0.0.1-SNAPSHOT</version>
         
   
-  <name>project3</name>
+  <name>project2</name>
         
   
   <description>Blank multi project for Spring Boot + Elm</description>
@@ -53,7 +53,7 @@
         <groupId>com.kpi.project3</groupId>
                                 
         
-        <artifactId>project3-frontend</artifactId>
+        <artifactId>project2-frontend</artifactId>
                                 
         
         <version>0.0.1-SNAPSHOT</version>
@@ -68,7 +68,7 @@
         <groupId>com.kpi.project3</groupId>
                                 
         
-        <artifactId>project3-backend</artifactId>
+        <artifactId>project2-backend</artifactId>
                                 
         
         <version>0.0.1-SNAPSHOT</version>
@@ -166,10 +166,10 @@
   <modules>
           
     
-    <module>project3-frontend</module>
+    <module>project2-frontend</module>
           
     
-    <module>project3-backend</module>
+    <module>project2-backend</module>
       
   </modules>
   

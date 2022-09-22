@@ -1,4 +1,4 @@
-package com.kpi.project3.project3;
+package com.kpi.project3.project2;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
