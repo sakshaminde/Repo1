@@ -1,6 +1,6 @@
 package OOps;
 
-public class Container extends Vehicles{
+public class Container extends Truck{
 	int model;
 	
 	public int getModel() {

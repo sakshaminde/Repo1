@@ -1,8 +1,7 @@
 package OOps;
 
-public class Car extends Vehicles{
+public class Bharatbenz extends Truck{
 	int model;
-	
 	public int getModel() {
 		return model;
 	}
@@ -14,13 +13,17 @@ public class Car extends Vehicles{
 	@Override
 	void run() {
 		// TODO Auto-generated method stub
-		System.out.println("Car run");
+		System.out.println("Bus run");
 	}
 
 	@Override
 	int mileage() {
 		// TODO Auto-generated method stub
-		return 28;
+		return 25;
 	}
-
+	@Override
+	int speed() {
+		return 40;
+	}
+	
 }

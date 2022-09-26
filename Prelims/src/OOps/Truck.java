@@ -3,7 +3,7 @@ package OOps;
 public class Truck extends Vehicles{
 	
 	int model;
-	
+	int speed();
 	public int getModel() {
 		return model;
 	}
