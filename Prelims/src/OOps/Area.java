@@ -1,9 +1,10 @@
 package OOps;
 
 public class Area {
-	public void area()
+	
+	public static void main(String args[])
 	{
-		System.out.println("I am rectangle")
+		public void area();
 	}
 
 }
