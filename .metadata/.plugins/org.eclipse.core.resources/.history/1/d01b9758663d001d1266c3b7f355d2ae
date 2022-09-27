@@ -1,0 +1,17 @@
+package OOps;
+
+public class Bus extends Vehicles{
+
+	@Override
+	void run() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	int mileage() {
+		// TODO Auto-generated method stub
+		return 25;
+	}
+
+}
