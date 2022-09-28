@@ -1,0 +1,12 @@
+package OOps;
+
+public class Truck extends Vehicles{
+
+	@Override
+	void run() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}

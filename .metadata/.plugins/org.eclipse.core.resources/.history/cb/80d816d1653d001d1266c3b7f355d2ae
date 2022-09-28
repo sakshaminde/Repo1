@@ -1,0 +1,15 @@
+package OOps;
+
+public abstract class Vehicles {
+	abstract void run();
+	abstract int mileage();
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Truck t1= new Vehicles();
+		Bus b1 = new Vehicles();
+		Car c1 = new Vehicles();
+		Container c11 = new Vehicles();
+
+	}
+
+}

@@ -1,5 +1,11 @@
 package OOps;
 
+ uat
+public class Student extends School{
+	String name;
+	void study();
+
+
 public class Student extends School {
 
 	@Override
@@ -7,4 +13,5 @@ public class Student extends School {
 		// TODO Auto-generated method stub
 		return 0;
 	}
+ main
 }
