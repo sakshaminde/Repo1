@@ -1,0 +1,13 @@
+package Methods;
+
+public interface Interface1 {
+	abstract int add(int a, int b)
+	{
+		return a+b;
+	}
+	default void climb()
+	{
+		System.out.println("Animal Climb on Tree");
+	}
+
+}

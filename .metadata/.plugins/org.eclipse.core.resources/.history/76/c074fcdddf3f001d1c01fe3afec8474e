@@ -1,0 +1,23 @@
+package Methods;
+import java.util.io;
+public class Exception1 {
+	public static void main(String[] args)
+	{
+		try(FileOutputStream fos = new FileOutputStream("output.txt"));
+	         BufferedReader br = new BufferedReader(new FileReader("a.txt"))
+	        		 {
+			int num = 100/0;
+			System.out.println("Divided by zero"+num);
+		}
+		catch(ArithmeticException e)
+		{
+			e.printStackTrace();
+		}
+		finally
+		{
+			System.out.println("Continue Rest code");
+		}
+		
+	}
+}
+

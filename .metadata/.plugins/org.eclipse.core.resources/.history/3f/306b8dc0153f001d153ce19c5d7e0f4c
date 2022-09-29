@@ -1,0 +1,10 @@
+package Methods;
+
+public interface Interface1 {
+	abstract void climb();
+	default int add()
+	{
+		System.out.println("Addition is:"+add(5, 3));
+	}
+
+}

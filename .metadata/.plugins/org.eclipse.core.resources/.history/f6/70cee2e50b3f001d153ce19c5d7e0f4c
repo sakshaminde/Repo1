@@ -1,0 +1,7 @@
+package OOps;
+
+public interface Animal {
+	int name();
+	String color();
+
+}
