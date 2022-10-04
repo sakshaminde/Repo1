@@ -1,7 +1,0 @@
-package OOps;
-
-public class School {
-	abstract int work_time();
-	abstract interval();
-
-}

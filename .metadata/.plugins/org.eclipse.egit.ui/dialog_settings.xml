@@ -16,14 +16,7 @@
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="D:\Repository\Repo1\.git">
-			<item value="false"/>
-			<item value="sakshaminde &lt;sakshaminde3454@gmail.com&gt;"/>
-			<item value="Commit for &quot;Exception and Collections&quot;"/>
-			<item value="sakshaminde &lt;sakshaminde3454@gmail.com&gt;"/>
-			<item value="a7acc3563f5a28d653f55648655504ace08aeb11"/>
-			<item value="0"/>
-			<item value="false"/>
-			<item value=""/>
+			<item value="empty"/>
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
