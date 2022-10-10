@@ -1,9 +1,0 @@
-package Methods;
-
-public interface Interface1 {
-	default void climb()
-	{
-		System.out.println("Animal Climb on Tree");
-	}
-
-}

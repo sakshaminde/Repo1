@@ -1,7 +1,0 @@
-package Methods;
-
-public abstract class Calculate {
-	public int add(int a, int b);
-	public int sub();
-	public int add(int a, int c, int d);
-}

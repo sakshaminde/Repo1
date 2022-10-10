@@ -1,9 +1,0 @@
-package Methods;
-
-public interface TestInterface3 {
-	default void show()
-	{
-		System.out.pritnln("Default TestInterface3")
-	}
-
-}

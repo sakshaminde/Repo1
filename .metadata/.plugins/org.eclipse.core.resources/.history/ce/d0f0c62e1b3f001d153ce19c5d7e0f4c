@@ -1,8 +1,0 @@
-package Methods;
-
-public interface TestInterface4 {
-	default void show()
-	{
-		System.out.pritnln("Default TestInterface4");
-	}
-}
